@@ -1,4 +1,4 @@
-# Educational-InstitueManagementWebApplication
+# Educational-Institute Management Web Application
 
 Using ASP.NET EntityFramework.
 
